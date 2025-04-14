@@ -1,6 +1,7 @@
 using GloboTicket.TicketManagement.API.IntegrationTests.Base;
 using GloboTicket.TicketManagement.Application.Features.Categories.Queries.GetCategoriesList;
 using System.Text.Json;
+using Xunit;
 
 namespace GloboTicket.TicketManagement.API.IntegrationTests.Controllers
 {
